@@ -10,7 +10,7 @@ sudo apt-get install uck squashfs-tools
 2. Repeat step 1
 3. Repeat again
 4. Choose one of the desktop environments
-5. Choose yes for retaining windows specific files in pendrive
+5. Choose no for retaining windows specific files in pendrive
 6. Choose yes again
 7. Choose yes for Hybrid 
 8. Choose console and give okay
