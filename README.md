@@ -1,11 +1,16 @@
-# instructions_for_custom_distro_ubuntu
-This is just instructions for building a custom distro in Ubuntu
+# Instructions for Customizing Ubuntu
+This is just instructions for customizing Ubuntu with needed packages
 
-# install ubuntu customisation kit and tools for creating a hybrid copy
+Install Ubuntu Customisation Kit (UCK) and tools for creating a hybrid copy
+---------------------------------------------------------------------------
+
 ```bash
 sudo apt-get install uck squashfs-tools
 ```
-# Steps after opening Ubuntu Customisation Kit
+
+Steps after using Ubuntu Customisation Kit
+------------------------------------------
+
 1. Choose en as language pack
 2. Repeat step 1
 3. Repeat again
