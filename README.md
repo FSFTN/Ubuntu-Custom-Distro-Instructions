@@ -1,7 +1,7 @@
 # Instructions for Customizing Ubuntu
 This is just instructions for customizing Ubuntu with needed packages
 
-Install Ubuntu customisation kit (UCK) and tools for creating a hybrid copy
+Install Ubuntu Customisation Kit (UCK) and tools for creating a hybrid copy
 ---------------------------------------------------------------------------
 
 ```bash
